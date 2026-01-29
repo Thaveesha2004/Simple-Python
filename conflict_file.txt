@@ -1,2 +1,3 @@
+"Initial Content"
 Content from branch A and B
 
